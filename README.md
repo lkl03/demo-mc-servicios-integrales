@@ -1,2 +1,7 @@
-# demo-mc-servicios-integrales
-Demo web para MC Servicios Integrales — diseñada por eterlab.
+# MC Servicios Integrales
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
